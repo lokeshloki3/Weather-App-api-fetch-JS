@@ -62,7 +62,6 @@ searchTab.addEventListener("click", () => {
 
 function resetView() {
     notFoundImg.classList.remove("active");
-    searchInput.value = '';
 }
 
 
